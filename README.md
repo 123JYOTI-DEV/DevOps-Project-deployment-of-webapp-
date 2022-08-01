@@ -1,35 +1,75 @@
-# DevOps-Project-deployment-of-webapp-
- NOTE:- "Must read in order to understand the sequeence of project"
+Screen shots of every step to get done with the complete deployment process on tomcat server :)
+![Screenshot (1491)](https://user-images.githubusercontent.com/76150091/182170918-dfc0d121-14a8-43ea-9250-1c8ec23aa849.png)
+![Screenshot (1492)](https://user-images.githubusercontent.com/76150091/182170987-dfb059d0-6049-43a3-a80f-6fb610f65c56.png)
+![Screenshot (1494)](https://user-images.githubusercontent.com/76150091/182171056-a35100ea-dc2f-459c-8d84-361a74ae56ec.png)
+![Screenshot (1495)](https://user-images.githubusercontent.com/76150091/182171133-92f564ef-a75e-4e3f-8f2f-17bba676ddc8.png)
+![Screenshot (1496)](https://user-images.githubusercontent.com/76150091/182171200-e19f56d7-e657-4a9b-882f-7c40b9099143.png)
+![Screenshot (1497)](https://user-images.githubusercontent.com/76150091/182171253-5a5e999b-9412-4d6c-9e50-b3ef3ac499a6.png)
+![Screenshot (1498)](https://user-images.githubusercontent.com/76150091/182171308-6f452e7c-d62f-4aec-8b1a-e6ae0b981f1e.png)
+![Screenshot (1499)](https://user-images.githubusercontent.com/76150091/182171376-a45a96e9-38ee-482d-ae01-7fe0c564fa62.png)
+![Screenshot (1500)](https://user-images.githubusercontent.com/76150091/182171430-e1997d64-0410-49d2-a936-c61d9031f51e.png)
+![Screenshot (1501)](https://user-images.githubusercontent.com/76150091/182171485-9967c5bc-d6c8-4943-b147-4b42aefb255d.png)
+![Screenshot (1504)](https://user-images.githubusercontent.com/76150091/182171527-5da5143d-c6b6-4aa8-a811-fb8767862099.png)
+![Screenshot (1506)](https://user-images.githubusercontent.com/76150091/182171569-833c81ac-2def-452e-aada-3899ffea1771.png)
+![Screenshot (1507)](https://user-images.githubusercontent.com/76150091/182171674-9f8e0c08-a28d-49d7-a6dc-377ec5540190.png)
+![Screenshot (1508)](https://user-images.githubusercontent.com/76150091/182171724-d5ab8591-9d27-4da4-a878-177895a867ab.png)
+![Screenshot (1509)](https://user-images.githubusercontent.com/76150091/182171769-70fb39c6-9b13-4089-9d0c-d1ad13135eab.png)
+![Screenshot (1510)](https://user-images.githubusercontent.com/76150091/182171824-d4a62063-1b81-4b1e-9477-43f287a43124.png)
+![Screenshot (1511)](https://user-images.githubusercontent.com/76150091/182171882-b5647315-31c0-4f13-89c4-d00753ede968.png)
+![Screenshot (1513)](https://user-images.githubusercontent.com/76150091/182171937-2a4f791d-68cd-4101-8284-ef6db008c1d6.png)
+![Screenshot (1514)](https://user-images.githubusercontent.com/76150091/182172018-65d0d885-ff78-4daf-b561-7b89156e9930.png)
+![Screenshot (1515)](https://user-images.githubusercontent.com/76150091/182172067-8ff96ddd-9f5e-430f-999b-e7906f68efb4.png)
+![Screenshot (1516)](https://user-images.githubusercontent.com/76150091/182172122-e57bebfc-4424-4d4c-b4ba-0f929f42c70b.png)
+![Screenshot (1517)](https://user-images.githubusercontent.com/76150091/182172173-27002299-2100-427a-8296-33ead2694b6b.png)
+![Screenshot (1518)](https://user-images.githubusercontent.com/76150091/182172217-0f1ad466-6414-4be4-afc9-e1fbfec0334f.png)
+![Screenshot (1519)](https://user-images.githubusercontent.com/76150091/182172275-ed4fcece-c4ae-4745-bb6b-58f188073d3c.png)
+![Screenshot (1520)](https://user-images.githubusercontent.com/76150091/182172325-419601a2-8b0d-48e2-a237-12137f052934.png)
+![Screenshot (1521)](https://user-images.githubusercontent.com/76150091/182172398-7798e049-fe19-4274-86fe-48a4d37c90c9.png)
+![Screenshot (1522)](https://user-images.githubusercontent.com/76150091/182172448-50fa793f-070f-4ce0-bdf7-ac3c80abd140.png)
+![Screenshot (1523)](https://user-images.githubusercontent.com/76150091/182172498-0a0380a8-73ff-497e-9b8b-6632991e7d12.png)
+![Screenshot (1524)](https://user-images.githubusercontent.com/76150091/182172570-c8078a15-ce00-4ae9-9622-55dd8235f68a.png)
+![Screenshot (1525)](https://user-images.githubusercontent.com/76150091/182172634-54f1970f-2c7b-4f91-aa5f-21140a1371c8.png)
+![Screenshot (1526)](https://user-images.githubusercontent.com/76150091/182172660-3e913cb7-6e93-440b-aba2-321417469c37.png)
+![Screenshot (1527)](https://user-images.githubusercontent.com/76150091/182172722-41a9f1f6-752f-4735-a312-bbff11e86d07.png)
+![Screenshot (1528)](https://user-images.githubusercontent.com/76150091/![Screenshot (1529)](https://user-images.githubusercontent.com/76150091/182172909-b7dcb6a2-2a83-4ae9-988d-974e4bf64770.png)
+182172824-b04d2c1b-18e7-45e9-97f6-bee78cdd8560.png)
+![Screenshot (1530)](https://user-images.githubusercontent.com/76150091/182173129-b2473ce4-a99e-431f-9ec3-e6e8cb34d947.png)
+![Screenshot (1531)](https://user-images.githubusercontent.com/76150091/182173205-cacd225e-f917-4983-b564-5748233aa6b6.png)
+![Screenshot (1532)](https://user-images.githubusercontent.com/76150091/182173287-28dc7786-831e-4e87-bd36-6656c18757ce.png)
+![Screenshot (1533)](https://user-images.githubusercontent.com/76150091/182173395-8264c848-266b-42d1-ba58-30e41144d7a1.png)
+![Screenshot (1534)](https://user-images.githubusercontent.com/76150091/182173439-d2a34b8f-1646-4127-80e8-8900be65d6fa.png)
+![Screenshot (1535)](https://user-images.githubusercontent.com/76150091/182173464-f03a8e21-d681-4e05-8a2a-300f86f8f268.png)
+![Screenshot (1536)](https://user-images.githubusercontent.com/76150091/182173547-a3b7626f-6ccb-4f29-9881-0b601116a358.png)
+![Screenshot (1537)](https://user-images.githubusercontent.com/76150091/182173564-44fab082-0b39-4d79-9929-1e796b5e212e.png)
 
-It is a full fledge project of DevOps that deploy a sample webApp on the TOMCAT server and  illustrate the knlowledege of tools like :- 
-*Git & Github
-*Ant
-*Jenkins
-*J-unit
-*Server used :- TOMCAT 
+![Screenshot (1538)](https://user-images.githubusercontent.com/76150091/182173781-cadbc79a-eed9-4719-b016-63e60e5cb209.png)
+![Screenshot (1539)](https://user-images.githubusercontent.com/76150091/182173916-435a8c94-ec03-4f84-aae0-2587e700b244.png)
 
-In this Project a simple webapp will be deployed using a CI/CD pipeline(jenkins) on the TomCat server that inculde different jobs in jenkins that are mentioned below including it's plugin used as well 
-
-*JOB 1 :- GitHubPull
-plugin used -github plugin
-
- DESCRIPTION :- This Jenkins Job will pull the code from github repository and make it available automatically for next jenkins job to perfrom operation on it.
+![Screenshot (1540)](https://user-images.githubusercontent.com/76150091/182173938-126560c4-9a69-4f56-8c7a-87c1e00c82cc.png)
+![Screenshot (1541)](https://user-images.githubusercontent.com/76150091/182173956-797971ba-bd1f-4060-a09a-6ab5936005d7.png)
+![Screenshot (1542)](https://user-images.githubusercontent.com/76150091/182173980-9aa6dc4b-e341-4502-a118-61c5cc43a1eb.png)
+![Screenshot (1543)](https://user-images.githubusercontent.com/76150091/182174001-208c1741-39f0-4843-a5db-8a39364a48ea.png)
+![Screenshot (1544)](https://user-images.githubusercontent.com/76150091/182174026-7b098999-edfe-44c0-adb8-8cb9711fd274.png)
+![Screenshot (1545)](https://user-images.githubusercontent.com/76150091/182174049-6481aa40-2576-479b-b4e1-49c7d4bd20d5.png)
+![Screenshot (1546)](h![Screenshot (1547)](https://user-images.githubusercontent.com/76150091/182174097-93017ac1-9395-4de9-ad90-e13e547cd95d.png)
+ttps://user-images.githubusercontent.com/76150091/182174070-1407b6a3-9bff-4684-830b-20d991bf790d.png)
+![Screenshot (1548)](https://user-images.githubusercontent.com/76150091/182174118-9353e04d-3cc3-4003-9170-275022d2cf7b.png)
+![Screenshot (1549)](https://user-images.githubusercontent.com/76150091/182174131-98c943a8-b167-483f-8950-b79bf185c9e4.png)
+![Screenshot (1550)](https://user-images.githubusercontent.com/76150091/182174148-2f19ce34-7ed8-4738-a5d3-4f2ef56f99a7.png)
+![Screenshot (1551)](https://user-images.githubusercontent.com/76150091/182174167-0dd0463f-77b6-4b2c-a3a6-33fc1c94cc61.png)
+![Screenshot (1552)](https://user-images.githubusercontent.com/76150091/182174188-31c2d4a8-cf3e-4978-80a6-60f0f54535ca.png)
+![Screenshot (1553)](https://user-images.githubusercontent.com/76150091/182174204-a603ea9d-e0cf-433c-a623-c219c4b9783f.png)
+![Screenshot (1554)](https://user-images.githubusercontent.com/76150091/182174237-0a44b2bc-d226-4361-bdbe-73670655d06e.png)
+![Screenshot (1555)](https://user-images.githubusercontent.com/76150091/182174264-42bfe37e-df2d-4ee1-9b2a-b046877c5d97.png)
+![Screenshot (1556)](https://user-images.githubusercontent.com/76150091/182174283-279e61b8-65a5-488c-b7ae-13580a358fbf.png)
+![Screenshot (1557)](https://user-images.githubusercontent.com/76150091/182174304-cdb35736-1b0f-4cb6-9d20-5a27d8373c1a.png)
+![Screenshot (1558)](https://user-images.githubusercontent.com/76150091/182174323-8419c9bc-8755-4004-b7cc-bddc275bbe8d.png)
+![Screenshot (1559)](https://user-images.githubusercontent.com/76150091/182174341-cb51df28-4d07-4d34-9d60-5db930b49938.png)
+![Screenshot (1560)](https://user-images.githubusercontent.com/76150091/182174362-3dadd17b-1764-4ffc-ad31-9963a37b4fc3.png)
  
- *JOB 2 (CONTINUOUS BUILDING) :- BUild & Code Review
- plugin used for build - ANT plugin
- plugin used for Code review :- Warning next generation plugin
+ Finally Deployment Done and we can also see the CI/CD pipeline
  
- DESCRIPTION :- After the first job is done with it's task by pulling the source code from github then the functionality of this job gonna start ,after getting the code it will build the code using "ANT" plugin and review the code using "Warning next generation " and if this job get executed successfully then it will automatically invoke the 3rd Jenkin job to get started
-
-*JOB 3 (CONTINUOUS TESTING) :- Unit test
-plugin used :- JUnit realtime test report plugin
-
-DESCRIPTION :- the main aim of this jenkins job it to "Run test and Publish JUnit test Reports" it means if after the code is build and reviewed successfully the it need to be tested , if the code gets tested successfully then it will invoke to the last jenkins job to start but if not then the JUnit will create a realtime error report for the developer to rectify the error.
-
-
-*JOB 4 (CONTINUOUS DEPLOYMENT) :- Deploy code to production 
-plugin used :- Deploy to container
-plugin used to created pipeline:- Build pipeline
-
-DESCRIPTION :-after the successfull execution of the previous jobs of jenkins the last stage is to depoly it .
-Note :- if every job get's done without any error then deployment will be done automatically and you will be able to see the pipeline of your deployed sample web app without any error in green color(it menas deployed the webapp successfully).
+![Screenshot (1561)](https://user-images.githubusercontent.com/76150091/182174382-d899b08c-a76b-4ad1-b060-470fe07af890.png)
+![Screenshot (1562)](https://user-images.githubusercontent.com/76150091/182174470-e8681842-9d0b-49fa-97ed-c0b3a989336e.png)
+![Screenshot (1563)](https://user-images.githubusercontent.com/76150091/182174495-6caa86b3-2639-4c63-87ad-685fa75084ca.png)
+![Screenshot (1564)](https://user-images.githubusercontent.com/76150091/182174508-2ae5c037-2465-45d9-bfe9-4e63464812e0.png)
